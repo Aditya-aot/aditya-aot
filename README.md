@@ -4,21 +4,22 @@
 
 
 - 🌱 I’m currently learning Django , Machine Learning 
-- 👯 I’m looking to collaborate on Any projects 
+- 👯 I’m open to any collaborate on
 - 🤔 I’m looking for help with with any of my Repositories 
 - 💬 Ask me about Python 
 - ⚡ Fun fact: I also read a lot of Manga 😉 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aditya-aot)  
+<!-- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aditya-aot)   -->
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-aot)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-aot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-aot&show_icons=true)  
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya-aot&layout=compact&theme=material-palenight)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya-aot)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya-aot&theme=react-dark)  -->
+<img src='https://activity-graph.herokuapp.com/graph?username=Aditya-aot&theme=react-dark' width='500' height='200'>
 
 ![Profile views](https://gpvc.arturio.dev/Aditya-aot)
 
