@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya-aot&layout=compact&theme=material-palenight)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya-aot&theme=react-dark)  -->
-<img src='https://activity-graph.herokuapp.com/graph?username=Aditya-aot&theme=react-dark' width='500' height='200'>
+<!-- <img src='https://activity-graph.herokuapp.com/graph?username=Aditya-aot&theme=react-dark' width='500' height='200'> -->
 
 ![Profile views](https://gpvc.arturio.dev/Aditya-aot)
 
