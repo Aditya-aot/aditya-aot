@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Django , Machine Learning 
 - 👯 I’m open to any collaborate on
-- 🤔 I’m looking for help with with any of my Repositories 
+- 🤔 I’m looking for help with any of my Repositories 
 - 💬 Ask me about Python 
 - ⚡ Fun fact: I also read a lot of Manga 😉 
 
