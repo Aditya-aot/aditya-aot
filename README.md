@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Aditya
 #### I am Python Django Developer
-<!-- ![I am Python Django Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 
 - 🌱 I’m currently learning Django , Machine Learning 
