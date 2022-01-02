@@ -2,7 +2,7 @@
 #### I am Python Django Developer
 
 
-- 🌱 I’m currently learning Django , Machine Learning 
+- 🌱 I’m currently learning Django , Machine Learning and other cool tech
 - 👯 I’m open to any collaboration
 - 🤔 I’m looking for help with any of my Repositories 
 - 💬 Ask me about Python 
