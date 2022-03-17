@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aditya
 #### I am Python Django Developer
 
-
+[![aditya_aot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aditya_aot)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning Django , Machine Learning and other cool tech
 - 👯 I’m open to any collaboration
 - 🤔 I’m looking for help with any of my Repositories 
