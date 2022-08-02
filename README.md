@@ -2,7 +2,6 @@
 #### I am Python Django Developer
 [My Portfolio](https://aditya-three.vercel.app/)
 
-<script src="https://gist.github.com/Aditya-aot/df8912df4f412497b4875105e34fdc69.js"></script>
 
 - 🌱 I’m currently learning Django , Machine Learning and other cool tech
 - 👯 I’m open to any collaboration
