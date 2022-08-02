@@ -14,7 +14,7 @@
 [<img src='https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=aditya-aot&layout=compact&theme=material-palenight' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
 
 
-![test image size]<img src="https://data.whicdn.com/images/260776147/original.gif" width="400" height="790">
+<img src="https://i.imgur.com/7A5ZfPJ.gif" >
 
 ![Profile views](https://gpvc.arturio.dev/Aditya-aot)
 
