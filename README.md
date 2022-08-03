@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aditya
 #### I am Python Django Developer
-[My Portfolio](https://aditya-three.vercel.app/)
+[My Portfolio](https://www.sketchadi.com/)
 
 
 - 🌱 I’m currently learning Django , Machine Learning and other cool tech
