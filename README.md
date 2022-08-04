@@ -1,4 +1,4 @@
-### Hi there 👋, my name is [Aditya](https://www.sketchadi.com/)
+### Hi there 👋, my name is [Aditya Sharma](https://www.sketchadi.com/)
 #### I am Python Django Developer
 ### My Portfolio : [Sketch-Adi](https://www.sketchadi.com/)
 
