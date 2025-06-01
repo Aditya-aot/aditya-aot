@@ -31,7 +31,7 @@
   <h2>Follow me around the Web</h2><br>
   <a href="https://www.linkedin.com/in/aditya-aot/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Aditya_Aot" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-    <a href="https://x.com/Aditya_Aot" target="_blank"><img src="https://img.shields.io/badge/github-%F4BF6F.svg?&style=flat-square&logo=github&logoColor=black" alt="Twitter"></a>
+    <a href="https://github.com/Aditya-aot" target="_blank"><img src="https://img.shields.io/badge/github-%F4BF6F.svg?&style=flat-square&logo=github&logoColor=black" alt="Twitter"></a>
 </div>
 
 ---
