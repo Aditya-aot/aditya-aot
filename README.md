@@ -10,7 +10,8 @@
 	</a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F12D&width=435&lines=Hello!+I'm+Aditya+Sharma;I%E2%80%99m+open+to+any+collaboration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFF00&background=000000E2&width=435&lines=.++Hello!+I'm+Aditya+Sharma;.++I%E2%80%99m+open+to+any+collaboration" alt="Typing SVG" /></a>
+
 
 - 🌱 I’m currently learning Django , Machine Learning and other cool tech
 - 👯 I’m open to any collaboration
