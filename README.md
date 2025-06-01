@@ -18,3 +18,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/Aditya-aot)
+
+<p align="center">
+ <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/Cool.gif">
+</p>
