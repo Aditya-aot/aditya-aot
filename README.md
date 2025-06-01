@@ -23,7 +23,7 @@
 <img src=https://data.whicdn.com/images/260776147/original.gif>
 
 
-![Profile views](https://gpvc.arturio.dev/Aditya-aot)
+
 
 ---
 
